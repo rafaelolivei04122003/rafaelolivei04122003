@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨🏼‍💻 Rafael Oliveira
 
-<!--
-**rafaelolivei04122003/rafaelolivei04122003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-end`**
 
-Here are some ideas to get you started:
+Me chamo José Rafael de Oliveira, tenho 21 anos e sou natural de Caruaru, Pernambuco, Brasil. Estou cursando Técnologia em Análise e Desenvolvimento de Sistemas e um curso livre de Engenharia de Software e Qualidade de Sistemas na Cruzeiro do Sul. Sou um amante da tecnologia e um entusiasta em resolver problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Línguagens e Tecnologias
+
+<img
+ align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+
+<img 
+ align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+          
+
+<img
+      align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
